@@ -1,4 +1,4 @@
-# 🏎️ Luxury Car Store Database
+# 🏎️ Banco de Dados Relacional de Loja de Carros de Luxo 
 
 Projeto de banco de dados relacional desenvolvido em **MySQL** para simular a estrutura de uma loja fictícia de carros de luxo.
 O objetivo é modelar, criar e consultar uma base de dados organizada, aplicando conceitos fundamentais de banco de dados, como tabelas relacionais, chaves primárias, chaves estrangeiras, integridade referencial e consultas SQL.
